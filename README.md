@@ -1,14 +1,6 @@
 # Dermatology
 
----
-title: 'Dermatology Classifier: Diagnosing Erythemato-Squamous Diseases'
-author: "Xiao Sean Guo"
-output:
-  html_document: default
-  pdf_document: default
-header-includes:
-    - \usepackage{caption}
----
+### Xiao Sean Guo
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
