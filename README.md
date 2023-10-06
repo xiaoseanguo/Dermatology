@@ -42,7 +42,7 @@ library(gbm) # Training gradient boost
 library(smotefamily) # Sampling data for balanced class
 ```
 
-### R Code: [Link](https://github.com/xiaoseanguo/Dermatology/blob/main/dermatology.R){target="_blank"} 
+#### <a href="[http://example.com/](https://github.com/xiaoseanguo/Dermatology/blob/main/dermatology.R)" target="_blank">R Code</a>
 
 <break>
 
